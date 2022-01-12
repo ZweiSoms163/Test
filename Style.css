@@ -1,0 +1,14 @@
+.text {
+  font-size: 40px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.text:hover {
+  font-size: 55px;
+  cursor: pointer;
+  color: red;
+  font-style: italic;
+  transition: all 0.5s;
+}
